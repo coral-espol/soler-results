@@ -1,0 +1,25 @@
+=== SUMMARY OF EXPERIMENT SEEDS ===
+Date: Sat Jul  4 19:09:40 2026
+-----------------------------------
+Strategy     | Exp #  | Seed      
+-----------------------------------
+selective    | 1      | 6782      
+selective    | 2      | 91699     
+selective    | 3      | 73184     
+selective    | 4      | 44894     
+selective    | 5      | 13667     
+selective    | 6      | 16035     
+selective    | 7      | 50301     
+selective    | 8      | 20949     
+selective    | 9      | 54760     
+selective    | 10     | 85185     
+greedy       | 1      | 6782      
+greedy       | 2      | 91699     
+greedy       | 3      | 73184     
+greedy       | 4      | 44894     
+greedy       | 5      | 13667     
+greedy       | 6      | 16035     
+greedy       | 7      | 50301     
+greedy       | 8      | 20949     
+greedy       | 9      | 54760     
+greedy       | 10     | 85185     
