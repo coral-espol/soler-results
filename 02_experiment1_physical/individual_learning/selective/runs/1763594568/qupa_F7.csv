@@ -1,0 +1,4 @@
+tick,greedy,robot,m,p_x,planned_wticks,task,search_ticks,x,y,seed
+531.311,false,qupa_F7,0.000000,0.500000,60.000,TYPE_B,531.311,0,0,1763594568
+631.311,false,qupa_F7,0.000000,0.500000,60.000,TYPE_B,39.000,0,0,1763594568
+696.311,false,qupa_F7,-1.000000,0.731059,59.651,TYPE_B,3.000,0,0,1763594568
